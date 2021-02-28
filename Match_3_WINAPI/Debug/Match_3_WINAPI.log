@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\Logic.h(7,2): warning C4091: typedef : пропускается слева от "TCell", когда ни одна переменная не объявлена
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(261,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(269,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(271,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(272,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(283,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(284,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(285,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(293,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(294,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(301,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(302,31): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(309,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(310,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(321,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(324,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(336,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(337,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(351,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(352,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(359,7): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(394,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(395,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(401,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(402,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(440,23): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(441,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(475,27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\Users\Dell\source\repos\Match_3_WINAPI\Match_3_WINAPI\main.cpp(476,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Match_3_WINAPI.vcxproj -> C:\Users\Dell\source\repos\Match_3_WINAPI\Debug\Match_3_WINAPI.exe
